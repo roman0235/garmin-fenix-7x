@@ -1,0 +1,1 @@
+# garmin-fenix-7x
